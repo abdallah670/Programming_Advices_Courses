@@ -1,0 +1,13 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/Assigment DS
+/C22_DS/.vs
+/C22_DS/bin/Debug
+/C22_DS/obj/Debug
+/C22_DS/Properties
+/LabDS
+*.txt
+/C22_DS/App.config
